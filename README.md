@@ -3,14 +3,14 @@
 Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Brhane Giday
 ====================================================================================================================================
 
-Fullstack developer | UI/UX designer | WordPress developer
+Software Engineer | Research Associate | UI/UX Designer
 ----------------------------------------------------
 
-* 🌍  I'm based in on Earth... for now
+* 🌍  I'm based in on Kigali, Rwanda
 * 🖥️  See my portfolio at [Portfolio](http://brhane-giday.vercel.app/)
 * ✉️  You can contact me at [brhane5giday@gmail.com](mailto:brhane5giday@gmail.com)
-* 🚀  I'm currently working on [BETTER Mobile Security](http://www.better.mobi/)
-* 🤝  I'm open to collaborating on SaaS, Web3, UI/UX, Ecommerce
+* 🚀  I'm currently working on [Upanzi Network](https://www.africa.engineering.cmu.edu/research/upanzi/index.html)
+* 🤝  I'm open to collaborating on Salon Management System, Course Recommendation Using LLM, Web3, Online Mental Health Platform, UI/UX, and Event management System
 
 ### Skills
 
