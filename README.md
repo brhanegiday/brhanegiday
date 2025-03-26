@@ -1,5 +1,3 @@
-![Profile Banner](https://user-images.githubusercontent.com/35131050/190957067-d000307c-0888-4584-b02a-74dd56ae0c4b.png)
-
 # Hi ![Wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Brhane Giday
 
 ## Software Engineer | Research Associate | MSc in Information Technology
@@ -9,6 +7,7 @@
 * 💼 Software Engineer & Research Associate at [Upanzi Network](https://www.africa.engineering.cmu.edu/research/upanzi/index.html)
 * 🖥️ View my portfolio at [brhane-giday.vercel.app](http://brhane-giday.vercel.app/)
 * ✉️ Contact me at [brhane5giday@gmail.com](mailto:brhane5giday@gmail.com)
+* 🌍 LinkedIn https://www.linkedin.com/in/brhane-giday
 * 🔍 Background in technical leadership, fullstack development, and UI/UX design with 5+ years of experience
 
 ## About Me
