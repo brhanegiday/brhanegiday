@@ -1,6 +1,6 @@
 # Hi ![Wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Brhane Giday
 
-## Software Engineer | Research Associate | MSc in Information Technology
+## Software Engineer | Research Associate 
 
 * 🎓 MSc in Information Technology with specialization in Software & AI from Carnegie Mellon University Africa (2023-2024)
 * 🌍 Based in Kigali, Rwanda
