@@ -1,4 +1,4 @@
-# Hi ![Wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Brhane Giday
+# Hi, I'm Brhane Giday
 
 ## Software Engineer | Research Associate 
 
@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm a Software Engineer and UI/UX designer with over 5 years of industry experience, bringing a unique blend of technical expertise and creative vision. My professional journey has equipped me with skills in technical leadership, conducting thorough code reviews, and architecting robust solutions. 
+I'm a Software Engineer and UI/UX designer with over 6 years of industry experience, bringing a unique blend of technical expertise and creative vision. My professional journey has equipped me with skills in technical leadership, conducting thorough code reviews, and architecting robust solutions. 
 
 I specialize in fullstack web development, with particular focus on React/Next.js ecosystems and UI/UX design. I have experience with Web3 technologies and am passionate about exploring innovative applications in this space. My approach involves meticulous attention to detail and a focus on creating sustainable solutions that deliver tangible results.
 
