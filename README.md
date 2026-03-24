@@ -4,7 +4,7 @@
 
 * 🎓 MSc in Information Technology with specialization in Software & AI from Carnegie Mellon University Africa (2023-2024)
 * 🌍 Based in Kigali, Rwanda
-* 💼 Software Engineer & Research Associate at [Upanzi Network](https://www.africa.engineering.cmu.edu/research/upanzi/index.html)
+* 💼 Software Engineer & Research Associate at [Upanzi Network](https://www.upanzi.net)
 * 🖥️ View my portfolio at [brhane-giday.vercel.app](http://brhane.vercel.app/)
 * ✉️ Contact me at [brhane5giday@gmail.com](mailto:brhane5giday@gmail.com)
 * 🌍 LinkedIn https://www.linkedin.com/in/brhane-giday
