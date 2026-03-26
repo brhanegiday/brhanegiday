@@ -1,53 +1,56 @@
-# Hi, I'm Brhane Giday
+# Hi, I'm Brhane Giday 👋
 
-## Software Engineer | Research Associate 
+## Full-Stack Software & AI Engineer
 
-* 🎓 MSc in Information Technology with specialization in Software & AI from Carnegie Mellon University Africa (2023-2024)
+* 🎓 MSc in Information Technology (Software Engineering & AI) Alumni – Carnegie Mellon University Africa
 * 🌍 Based in Kigali, Rwanda
-* 💼 Software Engineer & Research Associate at [Upanzi Network](https://www.upanzi.net)
-* 🖥️ View my portfolio at [brhane-giday.vercel.app](http://brhane.vercel.app/)
-* ✉️ Contact me at [brhane5giday@gmail.com](mailto:brhane5giday@gmail.com)
-* 🌍 LinkedIn https://www.linkedin.com/in/brhane-giday
-* 🔍 Background in technical leadership, fullstack development, and Product design with 5+ years of experience
+* 💼 Research Associate (Software Engineering) at [Upanzi Network](https://www.upanzi.net) & Startup Founder
+* 🖥️ Portfolio: [brhane.vercel.app](https://brhane.vercel.app/)
+* ✉️ Contact: [brhane5giday@gmail.com](mailto:brhane5giday@gmail.com)
+* 🔗 LinkedIn: [brhane-giday](https://www.linkedin.com/in/brhane-giday)
 
-## About Me
+---
 
-I'm a Software Engineer and UI/UX designer with over 6 years of industry experience, bringing a unique blend of technical expertise and creative vision. My professional journey has equipped me with skills in technical leadership, conducting thorough code reviews, and architecting robust solutions. 
+## 👨‍💻 About Me
 
-I specialize in fullstack web development, with particular focus on React/Next.js ecosystems and UI/UX design. I have experience with Web3 technologies and am passionate about exploring innovative applications in this space. My approach involves meticulous attention to detail and a focus on creating sustainable solutions that deliver tangible results.
+I am a Full-Stack Software Engineer with over 5 years of industry experience, specializing in bridging robust software architecture with advanced AI capabilities. I have a proven track record of taking products from 0 to 1, building scalable web applications, and seamlessly integrating large language models (LLMs) into production environments. 
 
-Currently, I'm applying my expertise at Upanzi Network under CMU-Africa, where I'm involved in software engineering and research initiatives focused on sustainable technologies.
+My technical foundation lies in developing intuitive, high-performance user interfaces using **React/Next.js**, while architecting secure backend systems and microservices with **Node.js** and **Python**. I am deeply passionate about leveraging data and artificial intelligence to build sustainable, high-impact digital solutions for Africa and the global market.
 
+## 🚀 Featured Projects & Ventures
 
-## Current Projects
-- **Upanzi Network Research Initiatives**: Working on sustainable technology solutions in Africa
-- **AI Chatbot Integration Systems**: Developing intelligent conversational interfaces
-- **Course Recommendation Systems**: Building LLM-based educational technology solutions
-- **Web3 Applications**: Exploring decentralized application development
+* **[Nabayt](https://nabayt.com) (Founder & Full-Stack Engineer):** Architected and deployed an anonymous storytelling platform. Integrated advanced AI models for comprehensive content moderation and engineered an AI-assisted story-writing feature to empower user expression.
+* **Curricula / OLGA (Co-Founder & AI Engineer):** Built an AI-powered academic planning tool that parses university catalogs with LLMs to recommend personalized career paths. Incubated at CMU-Africa's Industry Innovation Lab.
+* **AI-Powered Policy Analyzer:** Engineered a platform utilizing Retrieval-Augmented Generation (RAG) pipelines to process and analyze unstructured Digital ID and data protection policies across Africa.
+* **MOSIP-Integrated Event Management:** Developed a responsive event dashboard utilizing **Angular**, integrating MOSIP-based identity verification APIs to enable secure biometric and demographic authentication.
 
-## Previous Experience
-- **Better Mobile Security** (2022-2024): Senior Frontend Developer & Tech Lead
-- **DoubleDice** (2021-2022): Senior Frontend Developer (Web3)
-- **MAD Technologies** (2019-2021): Frontend Developer & UI/UX Designer
+## 💻 Tech Stack & Skills
 
-## Open for Collaboration
-I'm interested in collaborating on:
-- Sustainability technology solutions
-- AI integration projects
-- Course recommendation systems using LLMs
-- Web3 applications
-- UI/UX design projects
-- Salon management systems
-- Online mental health platforms
-- Event management systems
+* **Frontend:** Angular, React.js, Next.js, TypeScript, Tailwind CSS
+* **Backend:** Node.js, Python, FastAPI, GraphQL, REST APIs
+* **AI & Data:** LLM Integrations (OpenAI, HuggingFace), RAG Architectures, Vector Databases
+* **Cloud & DevOps:** Docker, Kubernetes, GitHub Actions (CI/CD), AWS, Linux
+* **Identity & Security:** MOSIP, Digital Public Infrastructure (DPI), OpenID Connect
 
-## Let's Connect
+## 🏢 Professional Experience
+
+* **Research Associate (Software Engineering)** @ Upanzi Network (CMU-Africa)
+* **Senior Frontend Developer & Tech Lead** @ Better Mobile Security (2022 - 2024)
+* **Senior Frontend Developer (Web3)** @ DoubleDice (2021 - 2022)
+* **Frontend Developer & UI/UX Designer** @ MAD Technologies (2019 - 2021)
+
+## 🤝 Open for Collaboration
+
+I'm always open to discussing new opportunities, especially regarding:
+* AI/LLM application development and RAG systems
+* Digital Public Infrastructure (DPI) and identity solutions
+* Building robust SaaS MVPs and microservice architectures
+* Tech-for-good and sustainable tech initiatives in Africa
+
+## 📬 Let's Connect
 
 <p align="left">
 <a href="https://www.linkedin.com/in/brhane-giday/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
 <a href="https://github.com/brhanegiday"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
 <a href="https://www.twitter.com/brhane_giday"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" /></a>
-<a href="https://www.instagram.com/brhane_giday"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" /></a>
-<a href="https://www.stackoverflow.com/users/15421983/brhane-giday"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Stack Overflow" /></a>
 </p>
-
